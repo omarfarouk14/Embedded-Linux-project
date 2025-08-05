@@ -1,0 +1,10 @@
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Server_Gui.dir
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Server_Gui_qmlimportscan.dir
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/list_install_components.dir
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install.dir
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/local.dir
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/strip.dir
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Server_Gui_autogen_timestamp_deps.dir
+/home/newir529/Server_Gui/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Server_Gui_autogen.dir

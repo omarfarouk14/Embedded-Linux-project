@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resources/icons/background.jpg</file>
+        <file>Resources/icons/facebook.png</file>
+        <file>Resources/icons/instagram.png</file>
+        <file>Resources/icons/linkedin.png</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file>Resources/qml/chart.qml</file>
+        <file>Resources/qml/meter.qml</file>
+    </qresource>
+</RCC>
